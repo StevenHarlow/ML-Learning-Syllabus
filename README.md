@@ -23,11 +23,11 @@ List of resources I have gathered, in no particular order. I will use these to d
 - [Neural Networks - Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-- (a16z's AI Canon)[https://a16z.com/2023/05/25/ai-canon/]
-- (Youtube: I programmed some creatures. They evolved)[https://www.youtube.com/watch?v=N3tRFayqVtk] - I'm including this because I have a history in biology/evolution, and this video was inspiring. However, It's not a in depth learning resource, but does provide the source code in the description.
-- (All the Math you Need to Know in Artifical Intelligence)[https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/]
-- (Understanding Backpropagation Algorithm)[https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd]
-- (logit and softmax in deep learning)[https://www.youtube.com/watch?v=Qn4Fme1fK-M]
+- [a16z's AI Canon](https://a16z.com/2023/05/25/ai-canon/)
+- [Youtube: I programmed some creatures. They evolved](https://www.youtube.com/watch?v=N3tRFayqVtk) - I'm including this because I have a history in biology/evolution, and this video was inspiring. However, It's not a in depth learning resource, but does provide the source code in the description.
+- [All the Math you Need to Know in Artifical Intelligence](https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/)
+- [Understanding Backpropagation Algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+- [logit and softmax in deep learning](https://www.youtube.com/watch?v=Qn4Fme1fK-M)
 
 ## Week 0
 
@@ -35,7 +35,7 @@ List of resources I have gathered, in no particular order. I will use these to d
 
 ### Plan
 
-- Review (All the Math you Need to Know in Artifical Intelligence)[https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/] in order to identify weak spots in my knowledge, and mark them down.
+- Review [All the Math you Need to Know in Artifical Intelligence](https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/) in order to identify weak spots in my knowledge, and mark them down.
 - Go through the list of resources, and others that I find, to populate the syallabus week by week. This doesn't need to be the end result, and can evolve, but will allow me to get a perspective of the various goals and timelines.
 
 ### Results
