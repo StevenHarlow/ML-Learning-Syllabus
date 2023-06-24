@@ -56,6 +56,7 @@ List of resources I have gathered, in no particular order. I will use these to d
 I felt pretty good in the math review last week, but there were some holes that I wanted to fill in and solidify. The objective here is a full understanding of _why_ we perform the math operations we do, and why they work. Primarily I'll be going through these course on Khan Academy:
 
 - [Precalculus](https://www.khanacademy.org/math/precalculus) - Just going to quickly run through this, in the off case that some of the missing foundational work is here. I think this will be mostly, if not all, review though
+- [AP/College Statistics](https://www.khanacademy.org/math/ap-statistics) - Again, this will likely be review, but want to be thorough
 - [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
 - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
